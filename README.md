@@ -42,3 +42,4 @@ E brute-force cosine.
 Embeddings are LSA (TF-IDF + 256-d truncated SVD) fitted on the store. Replacing the
 `embed` step with a neural model (e.g. Sentence-BERT) is the main planned extension.
 Dataset: Lewis, D. D. (1997), Reuters-21578 text categorization test collection.
+TestingSystem:It was run on Linux
